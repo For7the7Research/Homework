@@ -22,21 +22,32 @@ The branches from that would be SavvyCoders. That branches into multiple folders
 
 5. Understand what an IDE is.
 
-
+An IDE is an integrated development environment like Visual Studio Code or R studio.
+It allows you to run code, edit code, create files, and all manner of awesome coding organization.
 
 6. How to open and use VS Code.
 
+Can definitely do and am currently using to fill out this .txt file.
+
 7. Development tools -- CLI, Git and GitHub, and VS Code
+
+Yes.
 
 8. Know what Jupyter Notebooks are
 
  - how to Install and start up Jupyter Notebooks
+yes I do.
 
  - how to use Jupyter Notebooks inside of VS Code
+ I have tested it out, and Corwin informed me I can use it for my capstone. 
+ I am definitely going to try it.
 
  - read the resources on beautifying Jupyter Notebooks
+ Skimmed it.
 
 9. Know what type of programming language the Python language is
+
+Python is an interpreted, interactive, object-oriented programming language.
 
 10. Know how to install Python
 
