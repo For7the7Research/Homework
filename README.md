@@ -1,6 +1,6 @@
-Ayana Scott-Elliston
+# Ayana Scott-Elliston
 
-I am a biologist with a background focused in microbiology and data science.
+## I am a biologist with a background focused in microbiology and data science.
 
 1. Become comfortable using python coding language
 2. Become adept at handling large data repositories using python and sql

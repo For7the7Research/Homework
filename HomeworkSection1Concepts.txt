@@ -1,0 +1,81 @@
+1. What is the CLI and how to work with it.
+
+CLI is Command Line Interface. It is also called the terminal. We input commands into the terminal, and these commands essentially programs that we are telling the computer to run.
+
+2. What is a versioning control system and why we need it.
+
+A versioning control system is a cloud system, which ic composed of multiple hard drives on multiple computers.
+On this cloud system, we save different iterations of a project.
+The iterations are major changes to the file like adding a column or post cleaning data.
+We need it in case data is lost due to computer crashes. Or if we have a realization we can goto an earlier version to work from that one. 
+
+3. Understand the differences between Git and GitHub?
+
+Git is the command line interface, and GitHub is the cloud based versioning control system. 
+
+4. Understand the difference between the main branch and other branches of a repository.
+
+Though I am slightly still confused. I believe the main branch is the at the user level of the computer system.
+So for mine, it is the user after going through Macintosh HD part of my hard drive.
+The other branches are the files that stem from that user. So code would be my first branch.
+The branches from that would be SavvyCoders. That branches into multiple folders such as PythonPractice and Homework.
+
+5. Understand what an IDE is.
+
+
+
+6. How to open and use VS Code.
+
+7. Development tools -- CLI, Git and GitHub, and VS Code
+
+8. Know what Jupyter Notebooks are
+
+ - how to Install and start up Jupyter Notebooks
+
+ - how to use Jupyter Notebooks inside of VS Code
+
+ - read the resources on beautifying Jupyter Notebooks
+
+9. Know what type of programming language the Python language is
+
+10. Know how to install Python
+
+I installed Python using the instructions in Section 00 for a mac.
+I have a few notes.
+brew install git  and brew cask install visual-studio-code created errors
+Even with zsh installed.
+To install, use #install git# and #install visual-studio-code# instead.
+install git
+install visual-studio-code
+Then, you most likely will need to install Xcode for anything to work.
+xcode-select --install
+
+
+11.Know how to start coding Python
+
+    - how to create Python files in VS Code
+    In the command line, type python3.
+    And it will show at the bottom that I am now in Python for coding.
+
+    Or to create a .py file as an alternative method. that way you have code in one section, and the result in the terminal.
+
+    - how to write Python code inside a Jupyter Notebook
+    select +code and will create a python box in the notebook
+
+12. Understand how to run your Python code
+
+    - how to run Python code files in the CLI
+    I understand how to do so. I can just type the code directly into the terminal.
+
+    - how to run Python code files in VS Code
+    I can create a file that is a python coding file. And then I would code purely in there. 
+    The results would appear in the terminal.
+
+    - how to run Python code files in Jupyter Notebooks
+    Directly in those coding boxes.
+
+13. Understand some basics about debugging
+
+    Honestly debugging is very at the beginning stages.
+    I am learning what the language means to better understand the error.
+    However, I understand that the errors describe the error occuring as I have many errors in setting up my programs. 
