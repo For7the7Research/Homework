@@ -31,7 +31,8 @@ Can definitely do and am currently using to fill out this .txt file.
 
 7. Development tools -- CLI, Git and GitHub, and VS Code
 
-Yes.
+Yes. To update this text file, I am utilizing all four. I am in VSCode within a txt file. I have to add changes and commit them using git and to GitHub.
+And to commit these changes I am using the command line interface.
 
 8. Know what Jupyter Notebooks are
 
